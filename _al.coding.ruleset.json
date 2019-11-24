@@ -1,0 +1,12 @@
+{
+    "name": "al.design.patterns",
+    "description": "AL Coding Rules",
+    "generalAction": "Hidden",
+    "rules": [
+        {
+            "id": "AA0008",
+            "action": "Hidden",
+            "justification": "AL is not C# or Java, we do not use paranteses when not required..."
+        }
+    ]
+}
