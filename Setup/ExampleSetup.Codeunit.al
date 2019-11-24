@@ -1,4 +1,4 @@
-codeunit 50000 "Example Enabled"
+codeunit 50000 "Example Setup"
 {
     [EventSubscriber(ObjectType::Codeunit, Codeunit::"Company-Initialize", 'OnCompanyInitialize', '', false, false)]
     local procedure CreateExampleSetup()
